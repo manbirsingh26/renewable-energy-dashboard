@@ -4,7 +4,7 @@
 An interactive data visualization dashboard exploring global renewable energy trends from 2000 to 2024, with forecasting to 2030.
 
 ## 🌐 Live Dashboard
-👉 **[View Live Dashboard](https://YOUR_USERNAME.github.io/renewable-energy-dashboard)**
+👉 **[View Live Dashboard](https://manbirsingh26.github.io/renewable-energy-dashboard/)**
 
 ## 📊 Charts
 
